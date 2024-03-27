@@ -7,4 +7,4 @@ Initially, we can list the name of the NuGet plugin and its configuration file s
 
 Make a PR with a folder named after the NuGet, and place the privacy file inside it. This makes it easier for us to consult all the involved packages.
 
-Let´s go
+Let´s go folks
